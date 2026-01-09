@@ -18,8 +18,7 @@ The `quickstart.py` script is designed to help you run the full pipeline with mi
 ##  Project Structure (Relevant)
 
 avatar_sync/
-├── quickstart.py # Entry point (this file)
-├── talking_avatar.py # Core avatar generation logic
-├── wav2lip_workspace/ # Model & inference workspace
-├── requirements.txt # Python dependencies
-├── .gitignore
+- quickstart.py # Entry point (this file)
+- wav2lip_workspace/ # Model & inference workspace
+- requirements.txt # Python dependencies
+- .gitignore
